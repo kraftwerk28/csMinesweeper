@@ -1,0 +1,10 @@
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\bin\Release\CSMineSweeper.exe.config
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\bin\Release\CSMineSweeper.exe
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\bin\Release\CSMineSweeper.pdb
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Release\CSMineSweeper.Form1.resources
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Release\CSMineSweeper.Properties.Resources.resources
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Release\CSMineSweeper.StartForm.resources
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Release\CSMineSweeper.csproj.GenerateResource.Cache
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Release\CSMineSweeper.exe
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Release\CSMineSweeper.pdb
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Release\CSMineSweeper.csprojResolveAssemblyReference.cache

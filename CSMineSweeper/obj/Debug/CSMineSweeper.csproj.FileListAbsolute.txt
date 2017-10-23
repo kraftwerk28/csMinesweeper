@@ -1,0 +1,11 @@
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\bin\Debug\CSMineSweeper.exe.config
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\bin\Debug\CSMineSweeper.exe
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\bin\Debug\CSMineSweeper.pdb
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Debug\CSMineSweeper.csprojResolveAssemblyReference.cache
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Debug\CSMineSweeper.Form1.resources
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Debug\CSMineSweeper.Properties.Resources.resources
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Debug\CSMineSweeper.csproj.GenerateResource.Cache
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Debug\CSMineSweeper.exe
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Debug\CSMineSweeper.pdb
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Debug\CSMineSweeper.StartForm.resources
+D:\CSProjecs\CSMineSweeper\CSMineSweeper\obj\Debug\CSMineSweeper.csproj.CoreCompileInputs.cache
